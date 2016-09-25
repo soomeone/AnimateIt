@@ -1,0 +1,9 @@
+C:\Users\vmadmin\Documents\Visual Studio 2015\Projects\AnimateIt\AnimateIt\bin\Debug\AnimateIt.exe.config
+C:\Users\vmadmin\Documents\Visual Studio 2015\Projects\AnimateIt\AnimateIt\bin\Debug\AnimateIt.exe
+C:\Users\vmadmin\Documents\Visual Studio 2015\Projects\AnimateIt\AnimateIt\bin\Debug\AnimateIt.pdb
+C:\Users\vmadmin\Documents\Visual Studio 2015\Projects\AnimateIt\AnimateIt\obj\Debug\AnimateIt.csprojResolveAssemblyReference.cache
+C:\Users\vmadmin\Documents\Visual Studio 2015\Projects\AnimateIt\AnimateIt\obj\Debug\AnimateIt.exe
+C:\Users\vmadmin\Documents\Visual Studio 2015\Projects\AnimateIt\AnimateIt\obj\Debug\AnimateIt.pdb
+D:\Software\Github\AnimateIt\AnimateIt\bin\Debug\AnimateIt.exe.config
+D:\Software\Github\AnimateIt\AnimateIt\obj\Debug\AnimateIt.exe
+D:\Software\Github\AnimateIt\AnimateIt\obj\Debug\AnimateIt.pdb
